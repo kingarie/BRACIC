@@ -1,0 +1,6 @@
+{
+  "name": "Bullying Recovery & Awareness",
+  "description": "An elegant, secure, and confidential platform dedicated to providing immediate support, private safety planning, active campaigns, educational handbooks, and community circles for bullying survivors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
